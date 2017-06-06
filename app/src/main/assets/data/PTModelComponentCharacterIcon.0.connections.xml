@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2657</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2662</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2687</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2666</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2671</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2772</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2777</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2901</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2906</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3068</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>3073</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3177</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>3182</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

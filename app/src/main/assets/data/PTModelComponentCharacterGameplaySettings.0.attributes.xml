@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2181</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,11.250}</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.010000</string>
+                </dict>
+                <key>Jump Counter</key>
+                <dict>
+                    <key>value</key>
+                    <string>100000002537764290000000000.000000</string>
+                </dict>
+                <key>Left Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.900000</string>
+                </dict>
+                <key>Right Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.900000</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>2.250000</string>
+                </dict>
+                <key>Rotation Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.100000</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.990,1.000}</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Image Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2607</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,11.250}</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.010000</string>
+                </dict>
+                <key>Jump Counter</key>
+                <dict>
+                    <key>value</key>
+                    <string>10000000714945031000000000.000000</string>
+                </dict>
+                <key>Left Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.900000</string>
+                </dict>
+                <key>Right Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.900000</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>2.250000</string>
+                </dict>
+                <key>Rotation Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.100000</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.990,1.000}</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Image Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2726</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,11.250}</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.010000</string>
+                </dict>
+                <key>Jump Counter</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000000020040877300000.000000</string>
+                </dict>
+                <key>Left Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.900000</string>
+                </dict>
+                <key>Right Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.900000</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>2.250000</string>
+                </dict>
+                <key>Rotation Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.100000</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.990,1.000}</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Image Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2855</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,11.250}</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.010000</string>
+                </dict>
+                <key>Jump Counter</key>
+                <dict>
+                    <key>value</key>
+                    <string>99999997781963084000000.000000</string>
+                </dict>
+                <key>Left Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.900000</string>
+                </dict>
+                <key>Right Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.900000</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>2.250000</string>
+                </dict>
+                <key>Rotation Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.100000</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.990,1.000}</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Image Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3009</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,11.250}</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.010000</string>
+                </dict>
+                <key>Jump Counter</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000000013848427900000000.000000</string>
+                </dict>
+                <key>Left Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.900000</string>
+                </dict>
+                <key>Right Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.900000</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>2.250000</string>
+                </dict>
+                <key>Rotation Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.100000</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.990,1.000}</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Image Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3120</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,11.250}</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.010000</string>
+                </dict>
+                <key>Jump Counter</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000000015047466200000000000000.000000</string>
+                </dict>
+                <key>Left Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.900000</string>
+                </dict>
+                <key>Right Lean Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.900000</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>2.250000</string>
+                </dict>
+                <key>Rotation Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.100000</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.990,1.000}</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Image Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

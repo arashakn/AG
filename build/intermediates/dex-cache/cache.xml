@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-10.2.6_ccc4d8b1d62bb5649979a267fcb6e37ed1cc4046.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.6_597752069ee9d9c1549767e586f34cb0728a475f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.6_f5b88fdb61c27dceb9a3a8035a9227cff2221178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.6_aa92876df5a58690c7964558ada2dfac37f1a226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-10.2.6_f8dcc1e73ff6467beb5dbfa364e6255656ec354c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.6_597752069ee9d9c1549767e586f34cb0728a475f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.6_f8e31695af567be2e9e739387cb2bbea7e1c8c12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.6_ccc4d8b1d62bb5649979a267fcb6e37ed1cc4046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.6_f5b88fdb61c27dceb9a3a8035a9227cff2221178/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.6_aa92876df5a58690c7964558ada2dfac37f1a226/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.2.6_f8e31695af567be2e9e739387cb2bbea7e1c8c12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.6_21b899524313f9a85decce3a693763308be638d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-10.2.6_42a7d2726c8f54b6342320dd6ad85da8eca7570a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.6_c8e2339fbdc41618ea20ae519911dc8b6f832c1e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.6_fa9918d8164f6faba96e9baaecdeca0a650398a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_55cd71baa4f1ff50eadce9046152a31b2ebe6af1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-10.2.6_21b899524313f9a85decce3a693763308be638d0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.6_f8dcc1e73ff6467beb5dbfa364e6255656ec354c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.6_42a7d2726c8f54b6342320dd6ad85da8eca7570a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_55cd71baa4f1ff50eadce9046152a31b2ebe6af1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.2.6_fa9918d8164f6faba96e9baaecdeca0a650398a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_4b018387f0882683a6b89577a2fa39e9986be6d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-25.2.0_96c3e5bb3f775d8785f8418c964d653b45636f00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.2.6_aa34b8b19cae6d7c2076b4a1bc7d51ff740a4d40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_27a66f29b7f68e0dc6a843a65806a8236a977a6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-25.2.0_96c3e5bb3f775d8785f8418c964d653b45636f00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.6_aa34b8b19cae6d7c2076b4a1bc7d51ff740a4d40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.6_d0ad78dcbd0f1a3e774e52fa83a9861043f5f9df/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.2.6_85ff15c4746088e114973a2c9cd85b239d1c1600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-10.2.6_d0ad78dcbd0f1a3e774e52fa83a9861043f5f9df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.6_85ff15c4746088e114973a2c9cd85b239d1c1600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.6_c1d2ca2909063c647f8bb7664fc9f31dafdcb19b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.6_9fe1e0c0b6a6e13bad191dd762969c43a2f7cec6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-10.2.6_231f253efce47c07cde2880dfda2833aa9bc2117.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.6_89598e6dcbdfcebe9500e7d62915bcdf52fa3ea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.6_9fe1e0c0b6a6e13bad191dd762969c43a2f7cec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.2.0_9d59056acb7643570a356bf33b4a01afea4cdc64.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.6_8c86c4ba3d6db521f5b1aa01451acd8395c23c52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.6_76783fa09544c4301e6a5767205529c999f63e09/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-10.2.6_f5a8e15a6b37f44b627f59df54f82c3c82969acd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.6_c1d2ca2909063c647f8bb7664fc9f31dafdcb19b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-25.2.0_9d59056acb7643570a356bf33b4a01afea4cdc64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.6_f5a8e15a6b37f44b627f59df54f82c3c82969acd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_3ec34fc33fc7130d57f14b74b4983a5ca2d80dab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.2.6_0a0118446ce8094bd5d080a2956152ea251138d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.6_0a0118446ce8094bd5d080a2956152ea251138d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_3ec34fc33fc7130d57f14b74b4983a5ca2d80dab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_27a66f29b7f68e0dc6a843a65806a8236a977a6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.6_940c275f779b82eac9da86d7ef0bba8aa87f7202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.6_793c967007f55ba497da6bc79938d1037095ff1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_2aa97247920af2bb83613829fb4fd555d70afa66/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.6_940c275f779b82eac9da86d7ef0bba8aa87f7202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_2aa97247920af2bb83613829fb4fd555d70afa66.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.6_231f253efce47c07cde2880dfda2833aa9bc2117/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.2.6_89598e6dcbdfcebe9500e7d62915bcdf52fa3ea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.2.6_8c86c4ba3d6db521f5b1aa01451acd8395c23c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.6_76783fa09544c4301e6a5767205529c999f63e09.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.6_6db81c58bb4064eaa92c069cf67e3f025ce5b436/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/libs/support-v4-19.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/support-v4-19.0.1_e57801fccfe314e4107675b842462518d8841827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.2.6_793c967007f55ba497da6bc79938d1037095ff1a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_406beff4ca331f6b569b3d4d12c177ba5b9c61d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.6_040e39b3b7a110e6c365d14f6dc040282ae5c607/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.6_68cc9cdd16f2d1e87de23a311f6cfcc83f9a6b8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_2264693b5e7f9a5a7eccbd637b6b16fe1aea77d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_406beff4ca331f6b569b3d4d12c177ba5b9c61d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-10.2.6_68cc9cdd16f2d1e87de23a311f6cfcc83f9a6b8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-10.2.6_6db81c58bb4064eaa92c069cf67e3f025ce5b436.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/libs/support-v4-19.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/support-v4-19.0.1_e57801fccfe314e4107675b842462518d8841827/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.2.6_f83554fc33b699140a6595404548b0c1787d91e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.2.6_a6c5af7a0ee3b7eaace3246ca9665e4fc339461a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_0ac2a3c9d87f2614a39d54303faebacaab83a7dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.6_f83554fc33b699140a6595404548b0c1787d91e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_0ac2a3c9d87f2614a39d54303faebacaab83a7dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.2.6_c6f18be6e8ff91f6fc3807fcdc310ca096919e1e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_85935f933c55d78a830f5d66bc0ebfb0bd85506e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-10.2.6_040e39b3b7a110e6c365d14f6dc040282ae5c607.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.6_a6c5af7a0ee3b7eaace3246ca9665e4fc339461a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.6_f3ba5cef56ddc94028e16444077d07c8ba9f7c03/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_7094e9b394bd64981030237d945fdad2f8b10968.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.6_5dc591d4cbde6a07fc70c6b3590202f62aa6b562/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-10.2.6_5dc591d4cbde6a07fc70c6b3590202f62aa6b562.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.6_3f952ff1a0743a0a590f7cb8e89059132bd83eb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_85935f933c55d78a830f5d66bc0ebfb0bd85506e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.2.6_3f952ff1a0743a0a590f7cb8e89059132bd83eb8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.6_075cebf14bc774b2e7ef23788c242c90dd3179f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-10.2.6_9f2064ca6b2cc93f89e690d2267872aaea731c66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.6_2623d83b8479d6f1c7f1803590108108ce00b74f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.6_ea36988b702a4ae3b3d7e958b88a52e30b6c9667.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/libs/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/javax.inject-1_1ae6534418a48a9e3be541923cc7c58c4d16f48a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.6_9f2064ca6b2cc93f89e690d2267872aaea731c66/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_ad2ac11c3432a87b0ed327e137a7fca89d407313.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.6_ea36988b702a4ae3b3d7e958b88a52e30b6c9667/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-10.2.6_09a2178a922ccc86f305f9bccbd9adba57ba9d54.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_ad2ac11c3432a87b0ed327e137a7fca89d407313/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.6_8f2f83a1477339d1eb47a1bc235c7cb9a97cb454/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.2.6_f66ff7c54e547539e7d54cd7c34fa2355b77c012.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_4b018387f0882683a6b89577a2fa39e9986be6d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.6_09a2178a922ccc86f305f9bccbd9adba57ba9d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.6_f66ff7c54e547539e7d54cd7c34fa2355b77c012/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.6_8f2f83a1477339d1eb47a1bc235c7cb9a97cb454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-10.2.6_075cebf14bc774b2e7ef23788c242c90dd3179f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.2.6_916fd7094d0c1ec9cfb219fee8e34eeb9ee66e8e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/libs/dagger-1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/dagger-1.2.2_a1b573a971a6f328cb3e8314eda531aa0f123e40/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.6_e42f571258729b5a55ac518b7d2a69c44f48e069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.2.6_f3ba5cef56ddc94028e16444077d07c8ba9f7c03.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.6_e42f571258729b5a55ac518b7d2a69c44f48e069/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-10.2.6_28ed56de65c9694478097b6c84017f69d660e3c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.6_c8e2339fbdc41618ea20ae519911dc8b6f832c1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_222fb99eff79b70fa2670c9cee573679b916dc66/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.2.6_18dfa3c5aef360183d087d811b59edb13fb674b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_7094e9b394bd64981030237d945fdad2f8b10968/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/libs/dagger-1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/dagger-1.2.2_a1b573a971a6f328cb3e8314eda531aa0f123e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.2.6_174c5f244c6c6a2890ebeecf5e022bbcf2e37124.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.6_18dfa3c5aef360183d087d811b59edb13fb674b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_222fb99eff79b70fa2670c9cee573679b916dc66.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.6_28ed56de65c9694478097b6c84017f69d660e3c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.6_31097587e9e96d5b33dea48d8d837da0cdf60cec/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-10.2.6_a492f4b20c02ef0b4e3ef5c6c50db446015a3883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/libs/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1ae6534418a48a9e3be541923cc7c58c4d16f48a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.6_a492f4b20c02ef0b4e3ef5c6c50db446015a3883/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.6_174c5f244c6c6a2890ebeecf5e022bbcf2e37124/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.6_31097587e9e96d5b33dea48d8d837da0cdf60cec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.6_c6f18be6e8ff91f6fc3807fcdc310ca096919e1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.6_35e427740925d0d303050fa836a2cefa4f1d8f07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.6_40916f08b2527e46d4995c934d9c82351cb68371/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.6_916fd7094d0c1ec9cfb219fee8e34eeb9ee66e8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.6_2623d83b8479d6f1c7f1803590108108ce00b74f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.6_35e427740925d0d303050fa836a2cefa4f1d8f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arash/Documents/GitHub/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="/Users/Arash/Documents/GitHub/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-10.2.6_40916f08b2527e46d4995c934d9c82351cb68371.jar" />
+    </item>
+
+</items>
